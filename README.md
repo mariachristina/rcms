@@ -1,0 +1,2 @@
+# rcms
+React WP Theme
